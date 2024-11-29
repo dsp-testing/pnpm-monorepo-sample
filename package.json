@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "my-pnpm-mono-repo": "link:"
+    "my-pnpm-mono-repo": "link:",
+    "react": "17.0.0"
   }
 }
