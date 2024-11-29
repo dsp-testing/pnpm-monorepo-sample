@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "my-pnpm-mono-repo": "link:"
+    "express": "^4.10.0"
   }
 }
